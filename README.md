@@ -8,7 +8,7 @@
     * Deep learning GUI development for EEG decoding and model interpretation
     * Deep learning algorithm development andoptimization
  * 2021 TA for Jazz Harmony, Improvisation and Ensemble 
- * 2020 Parttime Internship at 交大大數據研究中心
+ * 2020 Parttime Internship at 交大校務大數據研究中心
  * 2020 Winter Internship at [台北榮總功能性神經外科](https://sites.google.com/view/cclee/)
  * 2019 Summer Internship at 泰國Kasetsart University molecular biology Lab
 

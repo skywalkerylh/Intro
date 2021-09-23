@@ -1,7 +1,7 @@
 # 黃雅琳 (Ya-Lin, Huang)
 
 ## Education
-交通大學 生物科技學系跨域人工智慧學程生醫組 (2016 ~ 2021)
+交通大學 生物科技學系跨域人工智慧學程生醫組 (2017 ~ 2021)
 
 ## Experience
  * 2019~2021 專題生 at [CECNL](https://sites.google.com/view/wei-cecnl)

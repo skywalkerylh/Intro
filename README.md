@@ -13,14 +13,14 @@
  * 2019 Summer Internship at 泰國Kasetsart University molecular biology Lab
 
 ## Projects 
-| Year | Field | Language | Topic |
-| -------- | -------- |--|:--------|
-| 2021 | ML | Python | [ExBrainable: An Open-Source GUI for CNN-based EEG Decoding and Model Interpretation](https://github.com/CECNL/ExBrainable) |
-| 2021 | ML | Python | Fuzzy Integral With Particle Swarm Optimization for CNN-Based Motor-Imagery EEG Classification (co-author) |
-| 2021 | - | C++ | [Advanced Algorithm Homework](https://github.com/skywalkerylh/Advanced_algorithm_hw) | 
-| 2020 | ML | Python | EEG-based Seizure Prediction usingconvolutional neural network |
-| 2020 | ML | Python | Covariance Representation Analysis (CRA): AnAutomatic Tool for Quality Assessment of Large-Scale EEG/MEG Data (co-author) |
-| 2019 | Bio | - | Species Identification and Intraspecific GeneticDiversity for the Vulture |
+| Year | Field | Language | Topic | Conference |
+| -------- | -------- |--|:--------| :--------: |
+| 2021 | ML | Python | [ExBrainable: An Open-Source GUI for CNN-based EEG Decoding and Model Interpretation](https://github.com/CECNL/ExBrainable) | AAAI-22, CVGIP |
+| 2021 | ML | Python | [Fuzzy Integral With Particle Swarm Optimization for CNN-Based Motor-Imagery EEG Classification (co-author)](https://github.com/skywalkerylh/Intro/blob/main/paper_fuzzyfusion.pdf) | IJFS, ifuzzy |
+| 2021 | - | C++ | [Advanced Algorithm Homework](https://github.com/skywalkerylh/Advanced_algorithm_hw) |-|
+| 2020 | ML | Python | [EEG-based Seizure Prediction usingconvolutional neural network](https://github.com/skywalkerylh/Intro/blob/main/poster_AS_prediction.pdf) | Tsfn, ifuzzy |
+| 2020 | ML | Python | [Covariance Representation Analysis (CRA): AnAutomatic Tool for Quality Assessment of Large-Scale EEG/MEG Data (co-author)](https://github.com/skywalkerylh/Intro/blob/main/poster_ymeg.pdf) | Tsfn |
+| 2019 | Bio | - | [Species Identification and Intraspecific GeneticDiversity for the Vulture](https://github.com/skywalkerylh/Intro/blob/main/slide_vulture.pptx) |-|
 
 
 ## Contact

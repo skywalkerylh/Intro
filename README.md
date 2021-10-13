@@ -26,7 +26,7 @@
 | -------- | -------- |--|:--------|
 | 2021 | - | C++ | [Advanced Algorithm](https://github.com/skywalkerylh/Advanced_algorithm_hw) |  
 | 2021 | - | LabView | [Signal and Systems](https://github.com/skywalkerylh/Intro/blob/main/Signal%20and%20Systems/SS_final_project.pdf) |  
-| 2021 | - | Python | [Brain Computer Interface](https://github.com/skywalkerylh/Advanced_algorithm_hw) |  
+| 2021 | - | Python | [Brain Computer Interface](https://github.com/skywalkerylh/Intro/tree/main/Brain%20Computer%20Interface) |  
 
 ## Contact
 * Mail

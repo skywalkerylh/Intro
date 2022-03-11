@@ -15,7 +15,7 @@
 ## Projects 
 | Year | Field | Language | Topic | Conference |
 | -------- | -------- |--|:--------| :--------: |
-| 2021 | ML | Python | [ExBrainable: An Open-Source GUI for CNN-based EEG Decoding and Model Interpretation](https://github.com/CECNL/ExBrainable) <br> [Video demo](https://youtu.be/m40z2klbmtg) | AAAI-22, CVGIP |
+| 2021 | ML | Python | [ExBrainable: An Open-Source GUI for CNN-based EEG Decoding and Model Interpretation](https://github.com/CECNL/ExBrainable) <br> [Video demo](https://youtu.be/m40z2klbmtg) | CVGIP, IEEE |
 | 2021 | ML | Python | [Fuzzy Integral With Particle Swarm Optimization for CNN-Based Motor-Imagery EEG Classification (co-author)](https://github.com/skywalkerylh/Intro/blob/main/paper_fuzzyfusion.pdf) | IJFS, ifuzzy |
 | 2020 | ML | Python | [EEG-based Seizure Prediction usingconvolutional neural network](https://github.com/skywalkerylh/Intro/blob/main/poster_AS_prediction.pdf) | Tsfn, ifuzzy |
 | 2020 | ML | Python | [Covariance Representation Analysis (CRA): AnAutomatic Tool for Quality Assessment of Large-Scale EEG/MEG Data (co-author)](https://github.com/skywalkerylh/Intro/blob/main/poster_ymeg.pdf) | Tsfn |

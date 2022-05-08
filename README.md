@@ -23,11 +23,11 @@
 | 2019 | Bio | - | [Species Identification and Intraspecific GeneticDiversity for the Vulture](https://github.com/skywalkerylh/Intro/blob/main/slide_vulture.pptx) |-|
 
 ## Homework
-| Year | Field | Language | Course |  Topic |
-| -------- | -------- |--|:--------| --------|
-| 2021 | - | C++ | [Advanced Algorithm](https://github.com/skywalkerylh/Advanced_algorithm_hw) | Sorting, DP, RBT, SCC|
-| 2021 | - | LabView | [Signal and Systems](https://github.com/skywalkerylh/Intro/blob/main/Signal%20and%20Systems/SS_final_project.pdf) | ECG analysis during levels of fitness and sport activities |
-| 2021 | - | Python | [Brain Computer Interface](https://github.com/skywalkerylh/Intro/tree/main/Brain%20Computer%20Interface) | EEG analysis using spectrograms, topoplot, and deep learning tools |
+| Year |  Language | Course |  Topic |
+| -------- | --|:--------| --------|
+| 2021 |C++ | [Advanced Algorithm](https://github.com/skywalkerylh/Advanced_algorithm_hw) | Sorting, DP, RBT, SCC|
+| 2021 | LabView | [Signal and Systems](https://github.com/skywalkerylh/Intro/blob/main/Signal%20and%20Systems/SS_final_project.pdf) | ECG analysis during levels of fitness and sport activities |
+| 2021 | Python | [Brain Computer Interface](https://github.com/skywalkerylh/Intro/tree/main/Brain%20Computer%20Interface) | EEG analysis using spectrograms, topoplot, and deep learning tools |
 
 ## Contact
 * Mail

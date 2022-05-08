@@ -7,7 +7,7 @@
 ## Experience
  * 2019~2021 專題生 at [CECNL](https://sites.google.com/view/wei-cecnl)
     * Deep learning GUI development for EEG decoding and model interpretation
-    * Deep learning algorithm development andoptimization
+    * Deep learning algorithm development and optimization
  * 2021 TA for Jazz Harmony, Improvisation and Ensemble 
  * 2020 Parttime Assistant at 交大校務大數據研究中心
  * 2020 Winter Internship at [台北榮總功能性神經外科](https://sites.google.com/view/cclee/)
@@ -25,7 +25,7 @@
 ## Homework
 | Year | Field | Language | Course |  Topic |
 | -------- | -------- |--|:--------| --------|
-| 2021 | - | C++ | [Advanced Algorithm](https://github.com/skywalkerylh/Advanced_algorithm_hw) | sorting,DP,RBT,SCC|
+| 2021 | - | C++ | [Advanced Algorithm](https://github.com/skywalkerylh/Advanced_algorithm_hw) | Sorting, DP, RBT, SCC|
 | 2021 | - | LabView | [Signal and Systems](https://github.com/skywalkerylh/Intro/blob/main/Signal%20and%20Systems/SS_final_project.pdf) | ECG analysis during levels of fitness and sport activities |
 | 2021 | - | Python | [Brain Computer Interface](https://github.com/skywalkerylh/Intro/tree/main/Brain%20Computer%20Interface) | EEG analysis using spectrograms, topoplot, and deep learning tools |
 

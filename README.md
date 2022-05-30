@@ -16,7 +16,7 @@
 ## Projects 
 | Year | Field | Language | Topic | Conference |
 | -------- | -------- |--|:--------| :--------: |
-| 2021-2022 | ML | Python | [ExBrainable: An Open-Source GUI for CNN-based EEG Decoding and Model Interpretation](https://arxiv.org/abs/2201.04065?msclkid=09bbe94dcea411ec9eb9a1a876c69279) <br> [Video demo](https://youtu.be/m40z2klbmtg) | CVGIP, IEEE |
+| 2021-2022 | ML | Python | [ExBrainable: An Open-Source GUI for CNN-based EEG Decoding and Model Interpretation](https://arxiv.org/abs/2201.04065?msclkid=09bbe94dcea411ec9eb9a1a876c69279) <br> [Video demo](https://youtu.be/m40z2klbmtg) | IEEE JBHI, CVGIP |
 | 2021 | ML | Python | [Fuzzy Integral With Particle Swarm Optimization for CNN-Based Motor-Imagery EEG Classification (co-author)](https://www.researchgate.net/publication/354445495_Fuzzy_Integral_With_Particle_Swarm_Optimization_for_CNN-Based_Motor-Imagery_EEG_Classification) | IJFS, ifuzzy |
 | 2020 | ML | Python | [EEG-based Seizure Prediction usingconvolutional neural network](https://github.com/skywalkerylh/Intro/blob/main/poster_AS_prediction.pdf) | Tsfn, ifuzzy |
 | 2020 | ML | Python | [Covariance Representation Analysis (CRA): AnAutomatic Tool for Quality Assessment of Large-Scale EEG/MEG Data (co-author)](https://github.com/skywalkerylh/Intro/blob/main/poster_ymeg.pdf) | Tsfn |
